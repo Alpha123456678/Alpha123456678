@@ -51,7 +51,7 @@
 - Cloud Firestore
 - Real-time Messaging
 
-### 🛒 Blinkit Clone (Coming Soon)
+### 🛒 Blinkit Clone
 - MVVM Architecture
 - Provider
 - Firebase
